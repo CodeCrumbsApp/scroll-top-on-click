@@ -1,7 +1,7 @@
 /** @format */
 
 ;(function (global) {
-	global.CrumbName = function ({
+	global.ScrollTopOnClick = function ({
 		scrollTriggerSelectors = [],
 		windowScroll = true,
 		windowScrollToSelector = '',
